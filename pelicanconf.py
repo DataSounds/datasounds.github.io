@@ -30,4 +30,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-FILES_TO_COPY = (('extra/CNAME', 'CNAME'),)
+FILES_TO_COPY = (('CNAME', 'CNAME'),)
