@@ -6,7 +6,7 @@ AUTHOR = u'Arnaldo Russo and Luiz Irber'
 SITENAME = u'DataSounds'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = u'en'
 
@@ -29,3 +29,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+FILES_TO_COPY = (('extra/CNAME', 'CNAME'),)
