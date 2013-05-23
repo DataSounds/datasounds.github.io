@@ -4,7 +4,7 @@ Category: About
 Tags: Welcome
 Slug: any
 Author: ciclotux
-Summary: any
+Summary: Welcome to DataSounds.org
 
 
 This project intends to propose a sonification method for 
