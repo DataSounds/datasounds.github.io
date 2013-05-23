@@ -1,7 +1,7 @@
 Title: Welcome to DataSounds.org
 Date: 2013-05-22 
 Category: About
-Tags: welcome
+Tags: Welcome
 Slug: any
 Author: ciclotux
 Summary: any
