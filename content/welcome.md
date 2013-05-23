@@ -25,6 +25,6 @@ dataset with a sonification method, where colors, numbers and shapes
 can be music too.
 
 If you want to taste our Demo, based on Chlorophyll-a time series 
-based on satellite MODIS, access our domain: [oceansound.DataSounds.org](http://ocean.datasounds.org)
+based on satellite MODIS, access our domain: [ocean.DataSounds.org](http://ocean.datasounds.org)
 
 Have a nice Scientific enjoyment!
