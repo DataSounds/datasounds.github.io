@@ -83,6 +83,6 @@ s3_upload: publish
 
 github: publish
 	ghp-import $(OUTPUTDIR)
-	git push git@github.com:DataSounds/datasounds.github.io.git gh-pages:master
+	git push -f git@github.com:DataSounds/datasounds.github.io.git gh-pages:master
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload github
