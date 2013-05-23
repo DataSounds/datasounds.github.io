@@ -2,7 +2,7 @@ Title: About Us
 Date: 2013-05-23 
 Category: Team
 Tags: Team
-Slug: any
+Slug: team
 Author: DataSounds
 Summary: Our team
 
