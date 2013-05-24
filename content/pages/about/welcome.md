@@ -6,8 +6,8 @@ Slug: about
 Author: ciclotux
 Summary: Welcome to DataSounds.org
 
-Welcome to DataSounds.org
-=========================  
+#Welcome to DataSounds.org
+  
 
 This project intends to propose a sonification method for 
 scientific visualization of time series analysis and other 
