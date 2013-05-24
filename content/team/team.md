@@ -1,8 +1,6 @@
-About
-======
-
-:date: 2013-05-23 
-:author: DataSounds
+Title: Team
+date: 2013-05-23 
+author: DataSounds
 
 [Luiz Irber](http://osrc.dfm.io/luizirber)
 
