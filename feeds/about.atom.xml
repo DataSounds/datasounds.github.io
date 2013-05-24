@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSounds</title><link href="http://datasounds.org/" rel="alternate"></link><link href="http://datasounds.org/feeds/about.atom.xml" rel="self"></link><id>http://datasounds.org/</id><updated>2013-05-22T00:00:00-03:00</updated><entry><title>Welcome to DataSounds.org</title><link href="http://datasounds.org/any.html" rel="alternate"></link><updated>2013-05-22T00:00:00-03:00</updated><author><name>ciclotux</name></author><id>tag:datasounds.org,2013-05-22:any.html</id><summary type="html">&lt;p&gt;This project intends to propose a sonification method for 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSounds</title><link href="http://datasounds.org/" rel="alternate"></link><link href="http://datasounds.org/feeds/about.atom.xml" rel="self"></link><id>http://datasounds.org/</id><updated>2013-05-22T00:00:00-03:00</updated><entry><title>Welcome to DataSounds.org</title><link href="http://datasounds.org/about.html" rel="alternate"></link><updated>2013-05-22T00:00:00-03:00</updated><author><name>ciclotux</name></author><id>tag:datasounds.org,2013-05-22:about.html</id><summary type="html">&lt;p&gt;This project intends to propose a sonification method for 
 scientific visualization of time series analysis and other 
 sources of results generally obtained graphically.&lt;/p&gt;
 &lt;p&gt;We were motivated through ocean color analysis concerning 
@@ -13,5 +13,5 @@ oceanography process.&lt;/p&gt;
 dataset with a sonification method, where colors, numbers and shapes 
 can be music too.&lt;/p&gt;
 &lt;p&gt;If you want to taste our Demo, based on Chlorophyll-a time series 
-based on satellite MODIS, access our domain: &lt;a href="http://ocean.datasounds.org"&gt;oceansound.DataSounds.org&lt;/a&gt;&lt;/p&gt;
+based on satellite MODIS, access our domain: &lt;a href="http://ocean.datasounds.org"&gt;ocean.DataSounds.org&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Have a nice Scientific enjoyment!&lt;/p&gt;</summary><category term="Welcome"></category></entry></feed>
