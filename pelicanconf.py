@@ -10,11 +10,9 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = u'en'
 
-
-
-
-#PAGE_URL = ('/pages/about.html')
-
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
+DEFAULT_CATEGORY = 'blog'
 
 
 # Feed generation is usually not desired when developing
@@ -23,8 +21,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),)
+#LINKS =  (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),)
           
 
 # Social widget
