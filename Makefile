@@ -19,6 +19,8 @@ SSH_TARGET_DIR=/var/www
 
 S3_BUCKET=my_s3_bucket
 
+CLOUDFILES_CONTAINER=datasounds.org
+
 DROPBOX_DIR=~/Dropbox/Public/
 
 help:
@@ -80,6 +82,9 @@ ftp_upload: publish
 
 s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed
+
+cf_upload: publish
+	cd $(OUTPUTDIR) && swift -v upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
 	ghp-import $(OUTPUTDIR)
