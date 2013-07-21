@@ -3,9 +3,9 @@ Date: 2013-05-22
 Category: About
 Tags: Welcome
 Author: ciclotux
-Summary: Welcome to DataSounds.org
 URL:
 save_as: index.html
+Template: landing
 
 This project intends to propose a sonification method for 
 scientific visualization of time series analysis and other 

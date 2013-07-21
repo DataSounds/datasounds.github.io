@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Arnaldo Russo and Luiz Irber'
 SITENAME = u'DataSounds'
-SITEURL = ''
+SITEURL = 'http://localhost:8001/'
 
 TIMEZONE = 'America/Sao_Paulo'
 
@@ -27,8 +27,8 @@ TRANSLATION_FEED_ATOM = None
 THEME = 'theme/'
 
 # Social widget
-SOCIAL = (('github', 'http://github.com/DataSounds'),
-          ('twitter', 'http://twitter.com/datasounds'),)
+SOCIAL = (('GitHub', 'http://github.com/DataSounds'),
+          ('Twitter', 'http://twitter.com/datasounds'),)
 
 DEFAULT_PAGINATION = 10
 SUMMARY_MAX_LENGTH = None
