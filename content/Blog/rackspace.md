@@ -1,6 +1,8 @@
 Title: Now hosted at Rackspace Cloud
 Date: 2013-07-22
 Author: luizirber
+URL: now-hosted-at-rackspace-cloud.html
+save_as: now-hosted-at-rackspace-cloud.html
 
 Our [oceansound demo][3] was running on a [Digital Ocean][9] droplet because
 free PaaS alternatives weren't really viable. We extract timeseries from
