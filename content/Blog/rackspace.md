@@ -1,7 +1,6 @@
 Title: Now hosted at Rackspace Cloud
 Date: 2013-07-22
 Author: luizirber
-status: draft
 
 Our [oceansound demo][3] was running on a [Digital Ocean][9] droplet because
 free PaaS alternatives weren't really viable. We extract timeseries from
@@ -13,7 +12,7 @@ don't be restricted by our lack of infrastructure.
 
 Not anymore.
 
-Two weeks Jesse Noller [tweeted][4] that Rackspace was offering free cloud
+Two weeks ago Jesse Noller [tweeted][4] that Rackspace was offering free cloud
 accounts for OSS projects. Hmm. I sent him an email and he replied quickly,
 offering us a new home.
 
