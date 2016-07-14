@@ -3,7 +3,7 @@ Category: Team
 date: 2013-05-23 
 author: DataSounds
 
-[Luiz Irber](http://osrc.dfm.io/luizirber)
+[Luiz Irber](http://luizirber.org)
 
-[Arnaldo Russo](http://osrc.dfm.io/arnaldorusso)
+[Arnaldo Russo](http://ciclotux.org)
 
