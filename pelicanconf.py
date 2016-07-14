@@ -39,6 +39,9 @@ SUMMARY_MAX_LENGTH = None
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+STATIC_PATHS = []
+EXTRA_PATH_METADATA = {}
+
 # Sitemap
 SITEMAP = {
     'format': 'xml',
