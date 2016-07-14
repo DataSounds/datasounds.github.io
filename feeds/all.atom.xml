@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSounds</title><link href="http://www.datasounds.org/" rel="alternate"></link><link href="http://www.datasounds.org/feeds/all.atom.xml" rel="self"></link><id>http://www.datasounds.org/</id><updated>2013-07-22T00:00:00-03:00</updated><entry><title>Now hosted at Rackspace Cloud</title><link href="http://www.datasounds.org/now-hosted-at-rackspace-cloud.html" rel="alternate"></link><published>2013-07-22T00:00:00-03:00</published><author><name>luizirber</name></author><id>tag:www.datasounds.org,2013-07-22:now-hosted-at-rackspace-cloud.html</id><summary type="html">&lt;p&gt;Our &lt;a href="http://ocean.datasounds.org"&gt;oceansound demo&lt;/a&gt; was running on a &lt;a href="https://www.digitalocean.com"&gt;Digital Ocean&lt;/a&gt; droplet because
+free PaaS alternatives weren't really viable. We extract timeseries from
+MODIS data with an old version of PyHDF that still supports HDF4 and needed
+about 4GB for data itself, so we deployed it and paid US$ 5/month.
+It really wasn't expensive and performance was good, but we don't have any
+income with this project so it would be better if we could avoid costs and
+don't be restricted by our lack of infrastructure.&lt;/p&gt;
+&lt;p&gt;Not anymore.&lt;/p&gt;
+&lt;p&gt;Two weeks ago Jesse Noller &lt;a href="https://twitter.com/jessenoller/status/355757374906183680"&gt;tweeted&lt;/a&gt; that Rackspace was offering free cloud
+accounts for OSS projects. Hmm. I sent him an email and he replied quickly,
+offering us a new home.&lt;/p&gt;
+&lt;p&gt;After following his instructions and be amazed by &lt;a href="http://www.rackspace.com/whyrackspace/support/"&gt;The Fanatical Support&lt;/a&gt;
+(first time someone called me right after sign up) last monday I started
+the migration. When I deployed the demo to Digital Ocean I tried to avoid
+as much as possible to do things by hand and &lt;a href="https://github.com/DataSounds/oceansound_demo/tree/master/devops"&gt;automated the process&lt;/a&gt; with
+&lt;a href="http://www.ansibleworks.com"&gt;Ansible&lt;/a&gt;. This time I adapted scripts to follow &lt;a href="http://www.ansibleworks.com/docs/bestpractices.html"&gt;best practices&lt;/a&gt; and
+started a security role, and everything went smoothly.&lt;/p&gt;
+&lt;p&gt;But the best part is that I have more resources available, and I set up a
+&lt;a href="http://ci.datasounds.org:8080/view/Build%20Pipeline/"&gt;Jenkins builbot&lt;/a&gt;. First test was to deploy this blog to &lt;a href="http://www.rackspace.com/cloud/files/"&gt;Cloud Files&lt;/a&gt;
+automatically, and I found a &lt;a href="http://www.philipithomas.com/jekyll-on-cloud-files/"&gt;tutorial&lt;/a&gt; explaining how to make it work
+as a static site. You're reading this, so it is working.&lt;/p&gt;
+&lt;p&gt;All in all, we are extremely satisfied with the experience, and we can't
+recommend Rackspace enough. Great work!&lt;/p&gt;</summary></entry><entry><title>Our Team</title><link href="http://www.datasounds.org/2013/05/23/our-team/" rel="alternate"></link><published>2013-05-23T00:00:00-03:00</published><author><name>DataSounds</name></author><id>tag:www.datasounds.org,2013-05-23:2013/05/23/our-team/</id><summary type="html">&lt;p&gt;&lt;a href="http://luizirber.org"&gt;Luiz Irber&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ciclotux.org"&gt;Arnaldo Russo&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
